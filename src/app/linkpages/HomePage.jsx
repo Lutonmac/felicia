@@ -33,7 +33,7 @@ export default async function HomePage() {
                     </div>
                     <div className={`p-10`}>
                         <p className={`py-5 `}>Hi there and welcome to my website.</p>
-                        <p>I'm Felicia Owadara, the author of the nudity of a woman and it's companion novels. Right now i'm working on a brand new story, one that i hope you will enjoy as much as the nudity of a woman, feel free to look around.</p>
+                        <p>I&apos;m Felicia Owadara, the author of the nudity of a woman and it&apos;s companion novels. Right now i&apos;m working on a brand new story, one that i hope you will enjoy as much as the nudity of a woman, feel free to look around.</p>
                         <p className={`py-5`}>And watch out for the Blu-ray and DvD release of nudity of a woman, coming out mid-2024</p>
                         <p>All the best</p>
                         <p>FO</p>
